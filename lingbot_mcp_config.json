@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lingbot-world": {
+      "command": "python",
+      "args": ["/llm_models_python_code_src/lingbot_mcp_server.py"]
+    }
+  }
+}
