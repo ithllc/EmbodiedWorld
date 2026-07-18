@@ -1,0 +1,12 @@
+Mode: overhead
+
+==============================
+LATENCY BENCHMARK RESULTS
+==============================
+Samples Collected: 9
+Average Latency:   0.101s
+Minimum Latency:   0.101s
+Maximum Latency:   0.102s
+Target Latency:    < 1.500s
+Status:            PASS
+==============================

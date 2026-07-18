@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# Downloaded model weights / caches
+*.pt
+*.onnx
+models_cache/
+
+# Runtime data
+redis_data/
+*.pid
+
+# Logs
+logs/
+*.log
+
+# Generated output
+output_audio/
