@@ -1,0 +1,12 @@
+Mode: live
+
+==============================
+LATENCY BENCHMARK RESULTS
+==============================
+Samples Collected: 3
+Average Latency:   29.596s
+Minimum Latency:   27.452s
+Maximum Latency:   32.418s
+Target Latency:    < 1.500s
+Status:            FAIL
+==============================
